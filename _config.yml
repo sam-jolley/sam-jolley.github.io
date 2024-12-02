@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "kid.png"
   name             : "Samuel Jolley"
-  pronouns         : "any" # example: "she/her"  
-  bio              : "My biography is that I'm a person"
+  pronouns         : "any prnouns" # example: "she/her"  
+  bio              : "Was born, am here now"
   location         : "Canberra"
-  employer         : "(was) Australian National University"
+  employer         : "Australian National University"
   uri              : # URL
   email            : "samuel.jolley@anu.edu.au" 
 
