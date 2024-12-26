@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Samuel Jolley"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Samuel Jolley"
 description              : &description "Person"
@@ -24,7 +24,7 @@ author:
   avatar           : "kid.png"
   name             : "Samuel Jolley"
   pronouns         : "any pronouns" # example: "she/her"  
-  bio              : "First Class Honors holder seeking graduate study"
+  bio              : "Prospective graduate student"
   location         : "Canberra"
   employer         : "Australian National University"
   uri              : # URL

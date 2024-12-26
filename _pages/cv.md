@@ -19,12 +19,11 @@ Work experience
   * Australian National University
   * Duties includes: Delivery tutorials and labs, grading assignment and providing feedback, organisation of the course, development of lab and assignment materials
   * Courses: A variety of advanced honours and graduate courses in machine learning. See teaching page for details.
-  * Supervisor: The Users
 
 Skills
 ======
-* Abstract and applied mathematical thinking
-* Programming, mainly in Python and PyTorch
+* Abstract and applied mathematics
+* Programming, Python and PyTorch
 
   
 Service and leadership
