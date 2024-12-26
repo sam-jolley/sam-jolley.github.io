@@ -17,7 +17,7 @@ Work experience
 ======
 * July 2022 - November 2024: Course Tutor or Teaching Assistant
   * Australian National University
-  * Duties includes: Delivery tutorials and labs, grading assignment and providing feedback, organisation of the course, development of lab and assignment materials
+  * Duties includes: Delivery of tutorials and labs, grading assignments and providing feedback, organisation of the course, development of lab and assignment materials
   * Courses: A variety of advanced honours and graduate courses in machine learning. See teaching page for details.
 
 Skills
